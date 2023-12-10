@@ -1,0 +1,9 @@
+a = 5
+b = 7
+c = 3
+res = a+b+c
+print("Summa=",str(res))
+pr=a*b*c
+print("Произведение =",str(pr))
+cr=res/3
+print("Среднее арифметическе =",str(cr))
